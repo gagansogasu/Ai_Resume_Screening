@@ -1,0 +1,12 @@
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Virtual Environment
+venv/
+.env
+
+# Ignore dataset & logs
+*.csv
+*.log
