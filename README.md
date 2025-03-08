@@ -28,3 +28,8 @@ Clone this repository:
 git clone https://github.com/your-username/ai-resume-screening.git
 cd ai-resume-screening
 
+pip install -r requirements.txt
+
+streamlit run app.py
+
+
