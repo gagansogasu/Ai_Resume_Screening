@@ -12,8 +12,6 @@ An AI-powered web application that automates resume screening and ranking based 
 - [🧠 How It Works](#-how-it-works)
 - [📈 Future Enhancements](#-future-enhancements)
 - [💡 Contributing](#-contributing)
-- [🐟 License](#-license)
-- [📢 Contact](#-contact)
 
 ---
 
